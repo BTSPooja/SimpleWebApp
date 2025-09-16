@@ -94,7 +94,7 @@ h1{
                 <li><a href="#home">Home-pooja</a></li>
             
                 <li><a href="#about">About Us</a></li>
-                <li><a href="#product">Product</a></li>
+                <li><a href="#product">Product--from last change</a></li>
                 <li><a href="#pricing">Pricing</a></li>
                 <li><a href="#contact">Contact-omkar OViiii</a></li>
             </ul>
