@@ -91,7 +91,8 @@ h1{
         <header>
 		<span style="font-size:64px;margin-right:10px;color:green">Flipkart Site</span>
             <ul id="menu">
-                <li><a href="#home">Home</a></li>
+                <li><a href="#home">Home-pooja</a></li>
+            
                 <li><a href="#about">About Us</a></li>
                 <li><a href="#product">Product</a></li>
                 <li><a href="#pricing">Pricing</a></li>
